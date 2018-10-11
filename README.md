@@ -1,1 +1,1 @@
-# angular-tests
+# Coursera Angular Course
