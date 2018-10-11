@@ -45,6 +45,7 @@ function LunchCheckController ($scope) {
 
 	$scope.clearMessage = function () {
 		$scope.message = "";	
+		$scope.colorAttribute = "gray";
 	}
 
 };
